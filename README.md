@@ -4,7 +4,10 @@ This represents the (very) early stages for an app that uses Computer Vision to 
 ## Details
 The program uses Google Cloud Platform's (GCP) Vision API for detecting and classifying the images as 'benign' or 'malignant'. 
 It uses AutoML to automatically detect which model would be the best fit for the specific image type that we're using. 
-The predict.py is the API that is then exported to be used in your app.
+The predict.py is the API that is then exported to be used in your app. <br /><br />
+To use it, you need to have the Google Cloud SDK installed.<br />
+The format to run the python script, the command line is as follows: <br />
+python predict.py YOUR_LOCAL_IMAGE_FILE healthyskinai ICN3695545034726946474
 
 ## Data
 The data used for training and testing the model was taken from the ISIC archive. We have included a sample data set of 200 images and their descriptions in the Data folder for your testing purposes. 
