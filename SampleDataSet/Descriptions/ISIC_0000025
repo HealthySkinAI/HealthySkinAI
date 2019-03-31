@@ -1,0 +1,54 @@
+{
+  "_id": "5436e3aebae478396759f101",
+  "_modelType": "image",
+  "created": "2014-10-09T19:36:14.418000+00:00",
+  "creator": {
+    "_id": "5450e996bae47865794e4d0d",
+    "name": "User 6VSN"
+  },
+  "dataset": {
+    "_accessLevel": 0,
+    "_id": "5a2ecc5e1165975c945942a2",
+    "description": "Moles and melanomas.\nBiopsy-confirmed melanocytic lesions. Both malignant and benign lesions are included.",
+    "license": "CC-0",
+    "name": "UDA-1",
+    "updated": "2014-11-10T02:39:56.492000+00:00"
+  },
+  "meta": {
+    "acquisition": {
+      "image_type": "dermoscopic",
+      "pixelsX": 1504,
+      "pixelsY": 1129
+    },
+    "clinical": {
+      "age_approx": 35,
+      "anatom_site_general": "lower extremity",
+      "benign_malignant": "benign",
+      "diagnosis": "nevus",
+      "diagnosis_confirm_type": null,
+      "melanocytic": true,
+      "sex": "female"
+    },
+    "unstructured": {
+      "diagnosis": "Nevus",
+      "id1": "26",
+      "localization": "lower limb",
+      "site": "bar"
+    },
+    "unstructuredExif": {}
+  },
+  "name": "ISIC_0000025",
+  "notes": {
+    "reviewed": {
+      "accepted": true,
+      "time": "2014-11-10T02:39:56.492000+00:00",
+      "userId": "5436c6e7bae4780a676c8f93"
+    },
+    "tags": [
+      "ISBI 2016: Training",
+      "ISBI 2017: Training",
+      "Challenge 2018: Task 1-2: Training"
+    ]
+  },
+  "updated": "2015-02-23T02:52:51.276000+00:00"
+}
