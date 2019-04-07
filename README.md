@@ -1,6 +1,6 @@
 ![Screenshot](Team_HealthySkinAI_MAR2019.jpg?raw=true "HealthySkinCare Team - Hackathon School of AI & Accenture - MAR2019, Team: Aureo Zanon Jr., Anuj Vasa, Mohit Jha, Martina Beverly and Aureo Zanon Neto")
 
-HealthySkinCare Team - Hackathon School of AI & Accenture - MAR2019, Team picture from left to right: Aureo Zanon Jr., Anuj Vasa, Mohit Jha, Martina Bervely and Aureo Zanon Neto
+HealthySkinCare Team - Hackathon School of AI & Accenture - MAR2019, Team picture from left to right: Aureo Zanon Jr., Anuj Vasa, Mohit Jha, Martina Beverly and Aureo Zanon Neto
 
 # HealthySkinAI
 This represents the (very) early stages for an app that uses Computer Vision to detect whether the spots on your skin are a form of cancer or not!
